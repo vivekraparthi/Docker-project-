@@ -1,0 +1,14 @@
+List of Files in /home/data 
+Dockerfile 
+IF.txt 
+Limerick.txt 
+main.py 
+result.txt 
+Number of words in IF: 287 
+Number of words in Limerick: 32
+Total number of words in both files: 319
+List the top 3 words with maximum number of counts in IF:
+You - 18
+And - 16
+If - 14
+IP Address of the machine: 172.17.0.2
